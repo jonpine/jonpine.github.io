@@ -12,31 +12,14 @@ date = 2025-08-01
   - 1700-2300 : [Tivoli Gardens](https://www.visitcopenhagen.com/copenhagen/planning/tivoli-gardens-gdk424504) **180** _CC_ + **199** RIDE PASS (after 1800)
     - Rutschebanen
 
-- May 23 (Sat) : *464*
-
-  - 0700-0800 : Morning stroll around The Copenhagen Lakes
-  - 0800-0900 : [King's Garden](https://www.visitcopenhagen.com/copenhagen/planning/kings-garden-gdk420899)
-  - 0900-1100 : [Rosenborg Castle](https://www.visitcopenhagen.com/copenhagen/planning/rosenborg-castle-gdk410582) **140** _CC_
-    - Do not skip the third floor. The throne and silver lions are incredible. The Treasury is in the basement.
-    - Checkout Lord Nelson's Cannonball
-  - 1125-1215 : Walk with Guards to Amalienborg Palace [Guard changing ceremony](https://www.visitcopenhagen.com/copenhagen/planning/changing-royal-guards-gdk1120569)
-  - 1230-1500 : [Amalienborg Palace](https://www.visitcopenhagen.com/copenhagen/planning/amalienborg-palace-gdk492887) **125** _CC_
-  - 1500-1600 : [Marmokirken](https://www.visitcopenhagen.com/copenhagen/planning/marble-church-gdk414142) *10-17*
-    - Visit the Dome at 1:30 PM **50**
-  - 1600-1800 : [Design Museum - Tentative](https://designmuseum.dk/en/besog-os/opening-hours-admission-2/) **140** _CC_
-  - 1800-1900 : [Canal Tour from Ved Stranden](https://www.visitcopenhagen.com/copenhagen/planning/classic-canal-tour-gdk410731) **199** _CC_ 
-    - 1630-1730 (Live Guide), 1730-1830, 1800-1900 (Live Guide)
-  - [Route](https://maps.app.goo.gl/N5jT1FnPKBvPKR5x7) Strøget shopping street, Gothersgade and Round Tower
-    - [Roof top of Cinematheque](https://www.dfi.dk/en/english/cinematheque-and-archives) *10-22*
-
-
-- May 24 (Sun) - *544* **Christiania**
+- May 23 (Sat) - *660* **Christiania**
 
   - 0700-0900 : Walk through the park Østre Anlæg to Kastellet, The Little Mermaid statue and Gefion fountain
   - [Route till Danish Resistance Museum](https://maps.app.goo.gl/S5vL13fvcgBiKu9z9)
-  - 1000-1200 : [Museum of Danish Resistance](https://en.natmus.dk/museums-and-palaces/the-museum-of-danish-resistance/) **130** _CC_
-  - 1230-1430 : [Christiansborg Palace & Royal Reception Rooms](https://www.visitcopenhagen.com/copenhagen/planning/christiansborg-palace-gdk420896) **215** + **150**_CC_, Queen's Tapestries, Ruins, Tower, Royal Kitchen, Royal Stables
-  - 1500-1530 : [Vor Frelsers Kirke](https://www.visitcopenhagen.com/copenhagen/planning/church-our-saviour-gdk410659) **70** _CC_
+  - 1000-1200 : [Museum of Danish Resistance](https://en.natmus.dk/museums-and-palaces/the-museum-of-danish-resistance/) **130** _CC_ _10-17_
+  - 1230-1430 : [Christiansborg Palace](https://www.visitcopenhagen.com/copenhagen/planning/christiansborg-palace-gdk420896) **225** + **150** + **85** _CC_ _10-17_
+    - Queen's Tapestries, Royal Reception Rooms, Ruins
+  - 1500-1530 : [Vor Frelsers Kirke](https://www.visitcopenhagen.com/copenhagen/planning/church-our-saviour-gdk410659) **70** _CC_ _1100-1530_
   - 1530-1600 : [Vor Frelsers Tower](https://www.vorfrelserskirke.dk/taarn/tower/booking)
   - 1600-1700 : [Christiania Walk](https://thehiddennorth.com/christianshavn-christian-ivs-merchant-town-self-guided-walking-tour/) Kvindesmedien, Det Kongelige Teater
   - 1700-2000 : [Self-Guided walk + Route](https://maps.app.goo.gl/ZvfSUGBdj23rJCks9)
@@ -45,13 +28,31 @@ date = 2025-08-01
     - In the summer Café Nemoland is a nice place to chill for drinks
   - [Route](https://maps.app.goo.gl/d8FGf8JhWzQqy1gG7)
 
+- May 24 (Sun) : *604* **Indre by**
+
+  - 0700-0800 : Morning stroll around The Copenhagen Lakes
+  - 0800-0900 : [King's Garden](https://www.visitcopenhagen.com/copenhagen/planning/kings-garden-gdk420899)
+  - 0900-1100 : [Rosenborg Castle](https://www.visitcopenhagen.com/copenhagen/planning/rosenborg-castle-gdk410582) **140** _CC_ _09-17_
+    - Do not skip the third floor. The throne and silver lions are incredible. The Treasury is in the basement.
+    - Checkout Lord Nelson's Cannonball
+  - 1125-1215 : Walk with Guards to Amalienborg Palace [Guard changing ceremony](https://www.visitcopenhagen.com/copenhagen/planning/changing-royal-guards-gdk1120569)
+  - 1215-1415 : [Amalienborg Palace](https://www.visitcopenhagen.com/copenhagen/planning/amalienborg-palace-gdk492887) **125** _CC_ _10-16_
+  - 1430-1530 : [Marmokirken](https://www.visitcopenhagen.com/copenhagen/planning/marble-church-gdk414142) *13-17*
+    - Visit the Dome at 1:30 PM **50**
+  - 1600-1700 : [Design Museum - Guided tour](https://designmuseum.dk/en/besog-os/opening-hours-admission-2/) **140** _CC_ _10-18_
+  - 1730-1830 : [Canal Tour from Ved Stranden](https://www.visitcopenhagen.com/copenhagen/planning/classic-canal-tour-gdk410731) **199** _CC_ 
+    - 1630-1730 (Live Guide), 1730-1830, 1800-1900 (Live Guide)
+  - 1830-2000 : [Round Tower](https://www.rundetaarn.dk/en/visit-us/#opening_hours) **60**, _10-20_
+  - 2000-2100 : [Route](https://maps.app.goo.gl/N5jT1FnPKBvPKR5x7) Strøget shopping street, Gothersgade, Kongens Nytorv
+
 - May 25 (Mon) *460* **Vesterbro**
 
-  - 0700-0830 : Train to Roskilde
-  - 0830-1000 : Explore Roskilde neighbourhood
-  - 1000-1100 : [Roskilde Cathedral (UNESCO)](https://roskildedomkirke.dk/english/opening-hours) _CC_ **70**
-  - 1100-1300 : [Viking Ship Museum](https://www.vikingeskibsmuseet.dk/en/) **165** _CC_ [Guided tour](https://www.vikingeskibsmuseet.dk/en/visit-the-museum/activities/guided-tours)
-  - 1300-1400 : Return to Carslberg Station or switch at Valby
+  - 0730-0830 : Train to Roskilde
+  - 0830-1000 : [Explore Roskilde neighbourhood](https://maps.app.goo.gl/THVaouakhQEHq3QC8) - Sankt Lawrence Catholic Church, Roskilde Havn, Roskilde Museum, Radhaus
+  - 1000-1100 : [Viking Ship Museum](https://www.vikingeskibsmuseet.dk/en/) **165** _CC_ _10-17_
+  - 1100-1200 : [Guided tour at 11](https://www.vikingeskibsmuseet.dk/en/visit-the-museum/activities/guided-tours) 
+  - 1200-1300 : [Roskilde Cathedral (UNESCO)](https://roskildedomkirke.dk/english/opening-hours) _CC_ **70** _10-16_
+  - 1330-1400 : Return to Carslberg Station or switch at Valby
   - 1400-1600 : [Home of Carlsberg](https://homeofcarlsberg.com/plan-your-visit) **225** _CC_
   - 1600-1900 : [Vesterbro walk](https://maps.app.goo.gl/YUTm87aYayAmkTrp9)
   - 1900-2000 : [Danish Parliament Tower](https://www.thedanishparliament.dk/en/the-tower/visit)
@@ -71,19 +72,21 @@ date = 2025-08-01
 
   - 0700-1000 : [Norrebro Walk](https://maps.app.goo.gl/xJgta7wVhHr2PTfk6) till [Mærsk Tower](https://healthsciences.ku.dk/explore-the-faculty/maersktower/#)
     - Nørrebro walk - Nørrebrogade, Elmegade, Blågårdsgade, Assistens Cemetery, Stefansgade and Jægersborggade, Ravnsborggade/Ryesgade, Mærsk Tower
+  - Climb the Mærsk Tower
   - 1000-1100 : Train to Hillerød.
   - 1100-1130 : Frederiksborg Ferry **40** _CC_
-  - 1130-1430 : [Frederiksborg Castle + gardens](https://dnm.dk/en/frederiksborg-castle/) **125** _CC_
+  - 1130-1430 : [Frederiksborg Castle + gardens](https://dnm.dk/en/frederiksborg-castle/) **125** _CC_ _10-17_
   - 1430-1500 : Train back to Copenhagen
-  - 1500-1800 : [National Gallery of Denmark](https://www.visitcopenhagen.com/copenhagen/planning/smk-national-gallery-denmark-gdk427321) **140** _CC_ 
+  - 1500-1800 : [National Gallery of Denmark](https://www.visitcopenhagen.com/copenhagen/planning/smk-national-gallery-denmark-gdk427321) **140** _CC_ _10-20_
+    - [Roof top of Cinematheque](https://www.dfi.dk/en/english/cinematheque-and-archives) *10-22*
 
-- May 28 (Thu) : *300* **Indre by & Osterebro**
+- May 28 (Thu) : *300* **Osterebro**
 
   - 0730-1030 : [Osterebro Walk](https://maps.app.goo.gl/75yD72142JtxYHYj9)
-  - 1030-1400 : [National Museum of Denmark](https://www.visitcopenhagen.com/copenhagen/planning/national-museum-gdk410508) **150** _CC_
-  - 1400-1600 : Explore AmagerTorv and Kongens Nytorv square, walk along Nyhavn and explore Indre By.
+  - 1030-1130 : [Grundtvigs Kirke](https://www.grundtvigskirke.dk/kontakt/abningstideropening-hours)
+  - 1200-1500 : [National Museum of Denmark](https://www.visitcopenhagen.com/copenhagen/planning/national-museum-gdk410508) **150** _CC_
   - 1600-1700 : [Torvehallerne food market](https://www.visitcopenhagen.com/copenhagen/planning/torvehallerne-gdk545401)
-  - 1700-2100 : [Glyptoteket](https://www.visitcopenhagen.com/copenhagen/planning/glyptoteket-gdk410562) **150** _CC_
+  - 1700-2100 : [Glyptoteket](https://www.visitcopenhagen.com/copenhagen/planning/glyptoteket-gdk410562) **150** _CC_ _10-21_
   - [Netto Badene canal tour](https://www.havnerundfart.dk/canaltours/index.php?page=forside.php) **50**
   - [Route](https://maps.app.goo.gl/V5GWTWDzFA9cAZHr9)
 
@@ -128,7 +131,7 @@ date = 2025-08-01
 - Jun 01 (Mon)
 
   - 0720-1055 : Bus to CPH
-  - 1130-1230 : Train to Lund Central
+  - 1200-1300 : Train to Lund Central
 
 ### Tips
 

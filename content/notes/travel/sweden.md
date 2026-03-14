@@ -8,35 +8,34 @@ date = 2025-07-25
 
 - Jun 01 (Mon)
 
-  - 1630-1722 : Train to Lund Central **180**
+  - 1200-1300 : Train to Lund Central **180**
+  - 1330-1630 : [Kulturen open-air museum](https://www.kulturen.com/welcome-kulturens-museums/kulturen-in-lund/opening-hours-admission-kulturen-in-lund/) _10-17_ **150**
+  - 1630-1800 : [Lund Cathedral](https://visitskane.com/classic-attractions/lund-cathedral) _08-18_ Catch the astronomical clock playing at 12:00 or 15:00.
+    - Kunghuset which is a kings house next to every other important old building there. It's a war tower with a mansion attached to it.
   - 1800-2000 : [Lund Walk Route](https://maps.app.goo.gl/ZHJbey54jEoUHEPeA) & [history](https://www.touristinformationlund.se/attractions/) Medieval City Wall Walk
   - [Mejeriet](http://www.kulturmejeriet.se/index.php/english/)
 
 - Jun 02 (Tue):
 
   - 0700-0800 : [Lund University Tour](https://www.touristinformationlund.se/attractions/)
-  - 0900-1000 : [Lund Cathedral](https://visitskane.com/classic-attractions/lund-cathedral) _08-18_ Catch the astronomical clock playing at 12:00 or 15:00.
-    - Kunghuset which is a kings house next to every other important old building there. It's a war tower with a mansion attached to it.
-  - 1000-1200 : [Kulturen open-air museum](https://www.kulturen.com/welcome-kulturens-museums/kulturen-in-lund/opening-hours-admission-kulturen-in-lund/) _10-17_ **150**
-    - [Museum of Cultural History ](http://www.tripadvisor.se/Attraction_Review-g189838-d267409-Reviews-Museum_of_Cultural_History_Kulturen-Lund_Skane_County.html) is kinda interesting if one is interested in history. They have a whole little block in the old part of the city to themselves to where they literally freighted old buildings (everything from wooden churches to middle class burgouis 18th century homes and medieval tower-houses) that you can go inside. The interors are often restored to reflect a certain era the building was used. 
-  - 1257-1309 : Train to Malmö **60**
-  - 1310-1800 : [Malmö Walk](https://maps.app.goo.gl/URLn6baqYhHY8KHg8) Old Town, St. Peter's Church, Turning Torso, Möllevången, City Library, Storgatan, St. Gertrude Quarters
+  - 0800-0830 : Train to Malmö **60**
+  - 0830-1100 : [Route till Gustav Adolfs Torg](https://maps.app.goo.gl/44y3Gtov227tCnej8) - Malmö foodhall, Västra Hamnen, Turning Torso, reach Technology and Maritime museum
+  - 1100-1300 : Malmo Castle, Kungsparken, Castle Mill, Malmo City Library, reach Gustav Adolfs Torg **100**
+  - 1300-1600 : [Route till Möllevångstorget](https://maps.app.goo.gl/vto3489LbBiXBsQt9) Lilla Torg, Stortorget, Modern Museum, Triangeln, Möllans Falafel
   - 1930-1940 : Train to Lund **60**
   - 2017-2235 : Train to Gothenburg **245**
 
 ### Gothenburg
 
 - Jun 03 (Wed):
-    
-  - 2 days All inclusive pass **(649/699)** can be explored
-  - The Museum Card **150** is valid at The Gothenburg Museum of Art, Museum of Gothenburg, The Maritime Museum and Aquarium and The Röhsska Museum
+  
   - 0730-0930 : Walk to Klippans Färjeläge and take boat 285 to Eriksbergs Färjeläge and walk along the harbour to Sörhallsberget Viewpoint. Take the boat to Stenpiren
   - 0930-1030 : Walk to [Oscar Fredriks church](https://www.svenskakyrkan.se/carl-johans-pastorat/oscarfredrik/oscar-fredriks-kyrka) *09-15*
   - 1030-1130 : [Masthuggskyrkan](https://www.svenskakyrkan.se/carl-johans-pastorat/masthugg) *10-18* 
-  - 1130-1300 : [Maritiman](https://www.maritiman.se/en/planning-your-visit/tickets-and-prices) **150** *11-17* _GP_
+  - 1130-1300 : [Maritiman](https://www.maritiman.se/en/planning-your-visit/tickets-and-prices) **150** *11-17* _GP_/_KV_/
   - 1300-1350 : [Paddan Tour](https://www.stromma.com/en-se/gothenburg/sightseeing/sightseeing-by-boat/the-paddan-tour/?departuredate=2025-08-22) **269** _GP_
     - [Route](https://maps.app.goo.gl/YxhH2EemBf1fJ9pM7) Maritiman, Kronhuset, Gustav Adolfs Torg, Market Hall, Inom Vallgraven
-  - 1400-1600 : [Gothenburg City Museum](https://goteborgsstadsmuseum.se/en/visit-us/) *10-18* **75** _MC_/_GP_
+  - 1400-1600 : [Gothenburg City Museum](https://goteborgsstadsmuseum.se/en/visit-us/) *10-20* **75** _MC_/_GP_/_KV_
   - 1600-1800 : Avenue Parade Street, Vasaplatsen, Haga Nygata, Skansen Kronan, Linnéplatsen, Prinsgatan
     - [Route](https://maps.app.goo.gl/p1ak1d9QQFAr27es9)
 
@@ -45,11 +44,11 @@ date = 2025-07-25
   - 0700-0800 : Morning walk along Andra Långgatan, Tredje Långgatan and reach Slottsskogen
   - 0800-1600 : Hike around Slottsskogen, the zoo and Botaniska Trädgården
     - (Make sure to see the penguins and moose while you're in Slottsskogen, make sure not to miss Azaleadalen)
-  - 1600-1800 : [Gothenburg Museum of Art](https://goteborgskonstmuseum.se/en/visit-the-museum/) *11-18* **75** _MC_ Fürstenberg Gallery (6th floor) - Start here
+  - 1600-1800 : [Gothenburg Museum of Art](https://goteborgskonstmuseum.se/en/visit-the-museum/) *11-18* **75** _MC_, _GP_, _KV_ Fürstenberg Gallery (6th floor) - Start here
     - Checkout State Theatre, Concert Hall and Poseidon Statue and reach Röhsska museet
   - [Route](https://maps.app.goo.gl/QP5SiAgKxCczSTCK7)
-  - 1800-2000 : [Museum of Design and Craft](https://rohsska.se/en/visit/) **75** *11-20* _MC_
-  - [Liseberg](http://liseberg.com/en/home/Amusement-Park/Tickets-prices1/)
+  - 1800-2000 : [Museum of Design and Craft](https://rohsska.se/en/visit/) **75** *11-20* _MC_, _GP_, _KV_
+  - [Maritime Museum & Aquarium - Tentative](https://sjofartsmuseetakvariet.se/en/visit-us/) **75** _MC_, _GP_, _KV_
 
 - Jun 05 (Fri):
   
@@ -61,6 +60,7 @@ date = 2025-07-25
   - 1600-1700 - Return to City
   - [Gothenburg archipelago](https://www.goteborg.com/en/guides/a-guide-to-the-gothenburg-archipelago)
   - [Feskekörka](https://www.feskekorka.se/)
+  - [Liseberg](http://liseberg.com/en/home/Amusement-Park/Tickets-prices1/)
 
 
 - Jun 06 (Sat):
@@ -214,6 +214,7 @@ date = 2025-07-25
   - https://sl.se/en/fares-and-tickets/visitor-tickets/travelcards
   - https://waxholmsbolaget.linjetidtabeller.se/
   - [Trip Planner](https://resrobot.se/#)
+  - https://www.svensktkulturarv.se/om-svenskt-kulturarv/
 
 
 ### Restaurants
