@@ -57,7 +57,7 @@ date = 2025-07-24
     - Formerly a monastery and later the residence of William of Orange, this museum showcases Dutch history.
   - [Nieuwe Kerk & Oude Kerk](https://www.oudeennieuwekerkdelft.nl/en/visit/prices-and-times/) **15** *Mon-Sat 10-17*
   - Delft City Hall (Stadhuis van Delft) – A Renaissance-style masterpiece in the Markt Square.
-  - [Canal tour](https://www.rondvaartdelft.nl/en/) **14**
+  - 1700-1800 : [Canal tour](https://www.rondvaartdelft.nl/en/) **14**
   - For the authentic experience walk along the canals (look up Doelenplein and Paardenmarkt, almost no tourists to be found there)
   - [Delft Walk](https://maps.app.goo.gl/3YqW5cSgAhG4XTd59)
   - Lots of Berlage buildings, most notably the Bijenkorf
@@ -100,28 +100,28 @@ date = 2025-07-24
 
   - The Zocherpark, a 19th-century English landscape garden surrounding the city's outer canal, runs around the inner city (except near Hoog Catharijne). The section from Ledig Erf past the observatory and Lepelenburg to the Stadsschouwburg is really nice for a walk.
   - Have a cider at Marktzicht on a Tuesday, ask for "ridiculous amount" of ice, put away your phone and just look at the people on the Breedstraat, and enjoy your big ice cold cider.
-  - [Railway Museum](https://www.spoorwegmuseum.nl/en/visit/visitor-information/) **19.5** _MC_ *Tue-Sun 10-17*
-  - [Museum Speelklok Guided tour](https://tickets.museumspeelklok.nl/en/toegangstickets/tickets) **17** *Tue-Sun 10-17*
-  - Go biking to Rhijnauwen, have some pancakes, enjoy the nature.
-  - Ledig Erf/Vaartsche Rijn: The Ledig Erf square (Tolsteegbrug) has three outdoor cafes and is a cozy area. South from here along the Vaartsche Rijn is a formerly forgotten area that's now totally hipster. Past the little train station is a stretch with former-industrial-now-hipster restaurants.
-  - Go to the Subcultures, and ask if they have a game night coming up, and where you can join.
-  - Go to [Springhaver](https://springhaver.nl/en/) and see an old movie that was ment to been seen in the theatre.
-  - [Louis Hartloopercomplex](https://hartlooper.nl/)
-  - Hoog Catharijne shopping mall *Mon 12-20, Tue-Sat 10-20, Sun 12-18*
-  - [Route](https://maps.app.goo.gl/nRGFAi8fEW1Ncjk26)
-
-- Jun 10 (Wed)
-
+  - 1000-1200 : [Museum Speelklok Guided tour](https://tickets.museumspeelklok.nl/en/toegangstickets/tickets) **17** *Tue-Sun 10-17*
   - Train to Amersfoort
   - [LIJN49 café City Walk](https://lunch-lijn49.nl/city-walk/) free self-guided 4.9-kilometer walk hitting 50 historic points
-  - Onze Lieve Vrouwetoren : **9.95**
+  - 1400-1500 : Onze Lieve Vrouwetoren : **9.95**
   - The Koppelpoort
   - Koppelpoort - the water gate
   - The Muurhuizen - Wall houses
   - [St. George's Church](https://joriskerkamersfoort.nl/en/home/) **2** *Tue-Sat 11-17*
   - [Amersfoort Route](https://maps.app.goo.gl/w7UNpqqjsZDqNCmk9)
+  - [Route](https://maps.app.goo.gl/KcPC6g7QNpetfrM77)
+  - Ledig Erf/Vaartsche Rijn: The Ledig Erf square (Tolsteegbrug) has three outdoor cafes and is a cozy area. South from here along the Vaartsche Rijn is a formerly forgotten area that's now totally hipster. Past the little train station is a stretch with former-industrial-now-hipster restaurants.
+
+- Jun 10 (Wed)
+
+  - Go biking to Rhijnauwen, have some pancakes, enjoy the nature.
+  - [Railway Museum](https://www.spoorwegmuseum.nl/en/visit/visitor-information/) **19.5** _MC_ *Tue-Sun 10-17*
   - Also it’s a nice bike ride along the river Vecht / oude gracht from the city center (about 15 minutes max) and you could even continue to make some extra distance extending to Oud-Zuilen and the castle and windmills there. Pro tip: make sure you rent/borrow a bike and go everywhere by bike.
   - [Slot Zulyen](https://slotzuylen.nl/tijden-prijzen/) **16** *Wed-Sun 11-17*
+  - Go to the Subcultures, and ask if they have a game night coming up, and where you can join.
+  - Go to [Springhaver](https://springhaver.nl/en/) and see an old movie that was ment to been seen in the theatre.
+  - [Louis Hartloopercomplex](https://hartlooper.nl/)
+  - Hoog Catharijne shopping mall *Mon 12-20, Tue-Sat 10-20, Sun 12-18*
 
 ### Amsterdam - 4 Nights
 
@@ -136,7 +136,7 @@ date = 2025-07-24
   - [Our lord in the attic Museum](https://opsolder.nl/en/tickets-and-prices/) **18** *Daily 10-18* _AC_
   - Nieuwmarkt (including former city gate and weighing house; place of protests against the metro line)
   - Staalmeestersbrug (don't put locks there, instead enjoy the view of Zuiderkerk)
-  - [Portuguese Synagogue](https://jck.nl/en/location/portuguese-synagogue) _AC_
+  - [Portuguese Synagogue](https://jck.nl/en/location/portuguese-synagogue/opening-hours-portuguese-synagogue) _AC_ *Sun-Fri 11-17, Sat Closed*
   - [Dutch Resistance Museum](https://www.verzetsmuseum.org/en/address-and-opening-hours) *Daily 10-17* _AC_ **17.5**
   - 2030-2200 : [Evening Canal Boat Tour](https://www.amsterdamboatadventures.com/shared-boat-tours/) **30.5** *11-19 per hour*
   - Magere Brug (legend says two sisters build this bridge to see each other more often because apparently they could not be bothered to use the bridges nearby)
