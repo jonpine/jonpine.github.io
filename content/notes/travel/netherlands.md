@@ -145,6 +145,7 @@ date = 2025-07-24
 - Jun 12 (Fri):
 
   - 0900-1000 : [Anne Frank House](https://www.annefrank.org/en/museum/tickets/) **16.5** *Daily 09-22* _MC_
+  - [TT - Museum of the Canals](https://grachten.museum/en/plan-your-visit/) *Mon 12-17, Tue-Sun 10-17* **18.5**
   - [De Nieuwe Kerk](https://www.nieuwekerk.nl/en/plan-your-visit/) *Daily 10-17* **20** _AC_
   - [A'Dam Lookout](https://www.adamlookout.com/opening-hours/) **16.5** *Mon-Thu 11-19, Fri-Sun 11-21* _AC_
   - [Straat Museum](https://www.straatmuseum.com/en/plan-your-visit#openinghours) *Mon 12-17, Tue-Sun 10-17, First Friday till 2100* _AC_, **21.5**
@@ -152,7 +153,6 @@ date = 2025-07-24
   - Jordaan Neighbourhood Walk by Rick Steves
   - [Foodhallen](https://www.foodhallen.nl/en/venues/amsterdam)
   - Leidseplein
-  - [TT - Museum of the Canals](https://grachten.museum/en/plan-your-visit/) *Mon 12-17, Tue-Sun 10-17* **18.5**
   - Negen Straatjes shop : Browse in the boutique shops of the Nine Streets.
   - Magna Plaza - Can be skipped
   - [Route](https://maps.app.goo.gl/dcjKyVAnyqPFnVjp9)
