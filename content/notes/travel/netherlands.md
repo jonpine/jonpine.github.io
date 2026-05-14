@@ -12,13 +12,15 @@ date = 2025-07-24
 
   - 0800 : Landing
   - 0900 : Out
-  - 0930-1030 : Schiphol to King Kong Hostel
-  - Collect Rotterdam Pass
+  - 0930-1030 : Schiphol to Rotterdam
+  - Collect Rotterdam Pass from Service Point - Rotterdam Pass Shop, Halvemaanpassage 90, 3011 DL
+  - [Spido Harbour tour](https://www.spido.nl/en/cruises/rotterdam-harbour-tour) is included
+  - Albert Heijn 
   - [Sonneveld House - Tentative](https://nieuweinstituut.nl/en/projects/huis-sonneveld/openingstijden-kaartverkoop) *Tue-Sun 10-17* **12** _RP_
   - [Depot Boijmans Van Beuningen](https://www.boijmans.nl/en/depot/plan-your-depot-visit) *Tue-Sun 11-17* **20** _RP_
   - [Kunsthal](https://www.kunsthal.nl/en/plan-your-visit/practical-information/admission-and-opening-hours/) **19** *Tue-Sun 10-17* _RP_
   - Voorhaven & Historisch Delfshaven - It has several interesting things to offer, in addition to a lovely view and old houses:
-    - [Windmil](https://molendedistilleerketel.nl/)
+    - [Windmill](https://molendedistilleerketel.nl/)
     - [Pilgrim's Brewery](https://www.pelgrimbier.nl/)
   - Walk along the Albrechtskade then the Hooidrift through the old neighborhoods to the beautiful Heemraadsingel and reach Nieuwe Binnenweg.
   - [Rotterdam Route](https://maps.app.goo.gl/cEwfNAwcfWcVdTyU8)
@@ -29,7 +31,7 @@ date = 2025-07-24
 
 - Jun 05 (Fri)
 
-  - Reach Rotterdam,Erasmusbrug ferry terminal
+  - Reach Erasmusbrug ferry terminal
   - Take the [Waterbus](https://www.waterbus.nl/en/Kinderdijk-travel) to Ridderkerk **8.7** and transfer to the Driehoeksveer ferry to Kinderdijk **4.7**
     - [Timetable](https://www.waterbus.nl/en/timetable)
   - [Kinderdijk](https://kinderdijk.nl/en/opening-hours/) *Daily 09-1730* **21**
@@ -47,15 +49,16 @@ date = 2025-07-24
   - Get a Daily Pass from HTM app **8.6**
   - Train to Den Haag & store Luggage
   - 0900-1000 : Binnenhof & Plein
-  - 1000-1200 : [Mauritshuis museum](https://www.mauritshuis.nl/en/visit) *Mon 1300-1800, Tue-Sun 10-18* **24** _MC_ -  *Girl with a Pearl Earring*
+  - 1000-1200 : [Mauritshuis museum](https://www.mauritshuis.nl/en/visit) *Mon 1300-1800, Tue-Sun 10-18* **24** _MC_
+    - Girl with a Pearl Earring
     - The museum has what may be Vermeer's most beautiful painting "View of Delft". Another tiny wonder: Fabritius: "The Goldfinch".
-    - don't forget Rembrandt’s The Anatomy Lesson of Dr. Nicolas Tulp.
-  - Train/Tram to Delft
+    - Don't forget Rembrandt’s The Anatomy Lesson of Dr. Nicolas Tulp.
+  - Tram to Delft
   - On Saturdays, look for a general market with flowers on Brabantse Turfmarkt and Burgwal, and antiques on and near Hippolytusbuurt, behind Town Hall. *09-17*
   - Albert Heijn supermarket
   - [Prinsenhof Museum](https://www.museumprinsenhofdelft.nl/en/plan-your-visit)
     - Formerly a monastery and later the residence of William of Orange, this museum showcases Dutch history.
-  - [Nieuwe Kerk & Oude Kerk](https://www.oudeennieuwekerkdelft.nl/en/visit/prices-and-times/) **15** *Mon-Sat 10-17*
+  - [Nieuwe Kerk & Oude Kerk](https://www.oudeennieuwekerkdelft.nl/en/visit/prices-and-times/) **15** *Mon-Sat 10-17* _RP_
   - Delft City Hall (Stadhuis van Delft) – A Renaissance-style masterpiece in the Markt Square.
   - 1700-1800 : [Canal tour](https://www.rondvaartdelft.nl/en/) **14**
   - For the authentic experience walk along the canals (look up Doelenplein and Paardenmarkt, almost no tourists to be found there)
@@ -64,11 +67,11 @@ date = 2025-07-24
 
 - Jun 07 (Sun)
 
-  - The Hague : Buy a tram pass. You'll get everywhere really quick.
+  - Get a Daily Pass from HTM app **8.6** *Tentative*
   - Oude Molstraat - this place is like Mediterranean street in the evening. Lots of nice bars and places to eat.
   - Lange Voorhout : Embassies along The Lange Voorhout
   - [Escher in the Palace](https://escherinhetpaleis.nl/en) *Tue-Sun 11-17* **14.5** _RP_
-  - [Panorama Mesdag](https://panorama-mesdag.nl/en/visit/) *Tue-Sun 10-17* _RP_ **17.5**
+  - [Panorama Mesdag](https://panorama-mesdag.nl/en/visit/) *Tue-Sun 10-17* **17.5** _RP_
   - [Peace Palace tour](https://www.vredespaleis.nl/visit/visitors-centre-2/?lang=en) *Wed-Sun 12-16* **Inside Tour 17.5** **Outside tour 13.5** *2 Weeks in Advance*
   - [Haags Kunst Museum](https://www.kunstmuseum.nl/en/visit) *Tue-Sun 10-17* **20** _RP_
   - Go climb the tower of the [Grote Kerk/Sint Jacobskerk](https://grote-kerk.nl/bezoek-de-kerk/) *Fri-Sun 12-16* **Tower 8.5** + **Kerk 3**
@@ -82,7 +85,7 @@ date = 2025-07-24
 
 - Jun 08 (Mon)
    
-  - Train to Utrecht & put luggage in Hostel
+  - Train to Utrecht
   - City Center: The Vredenburg - Neude - Janskerkhof area is bustling with shoppers and outdoor cafes. Lively, but busy and pretty commercial.
   - Go to the [Neude library](https://www.discover-utrecht.com/location/bibliotheek-neude-2/), get a small book, sit down and read it in one go. *09-18*
   - Neude - Janskerkhof area
@@ -129,15 +132,15 @@ date = 2025-07-24
 
   - Train to Amsterdam
   - Reach National Monument, Dam Square
-  - 1000-1200 : [Hello Amsterdam Tour](https://whoisamsterdam.com/hello-amsterdam-walking-tour-iamsterdam-city-card/) **29**
+  - 1000-1200 : [Hello Amsterdam Tour](https://whoisamsterdam.com/hello-amsterdam-walking-tour-iamsterdam-city-card/) **29** _AC_
   - [Begijnhof](https://begijnhofkapelamsterdam.nl/english-information/)
   - Trompettersteeg - narrowest street
   - [Oude kerk](https://www.oudekerk.nl/en/visitor-information)  *Mon-Sat 10-18, Sun 1300-1730* **14.5** _AC_
   - [Our lord in the attic Museum](https://opsolder.nl/en/tickets-and-prices/) **18** *Daily 10-18* _AC_
   - Nieuwmarkt (including former city gate and weighing house; place of protests against the metro line)
   - Staalmeestersbrug (don't put locks there, instead enjoy the view of Zuiderkerk)
-  - [Portuguese Synagogue](https://jck.nl/en/location/portuguese-synagogue/opening-hours-portuguese-synagogue) _AC_ *Sun-Fri 11-17, Sat Closed*
-  - [Dutch Resistance Museum](https://www.verzetsmuseum.org/en/address-and-opening-hours) *Daily 10-17* _AC_ **17.5**
+  - [Portuguese Synagogue](https://jck.nl/en/location/portuguese-synagogue/opening-hours-portuguese-synagogue) **20** *Sun-Fri 11-17, Sat Closed* _AC_
+  - [Dutch Resistance Museum](https://www.verzetsmuseum.org/en/address-and-opening-hours) **17.5** *Daily 10-17* _AC_ 
   - 2030-2200 : [Evening Canal Boat Tour](https://www.amsterdamboatadventures.com/shared-boat-tours/) **30.5** *11-19 per hour*
   - Magere Brug (legend says two sisters build this bridge to see each other more often because apparently they could not be bothered to use the bridges nearby)
   - [Amsterdam Route](https://maps.app.goo.gl/kRhsHGCTaTNVbDN66)
@@ -145,10 +148,10 @@ date = 2025-07-24
 - Jun 12 (Fri):
 
   - 0900-1000 : [Anne Frank House](https://www.annefrank.org/en/museum/tickets/) **16.5** *Daily 09-22* _MC_
-  - [TT - Museum of the Canals](https://grachten.museum/en/plan-your-visit/) *Mon 12-17, Tue-Sun 10-17* **18.5**
-  - [De Nieuwe Kerk](https://www.nieuwekerk.nl/en/plan-your-visit/) *Daily 10-17* **20** _AC_
+  - [TT - Museum of the Canals](https://grachten.museum/en/plan-your-visit/) **18.5** *Mon 12-17, Tue-Sun 10-17*  _AC_
+  - [De Nieuwe Kerk](https://www.nieuwekerk.nl/en/plan-your-visit/) **20** *Daily 10-17* _AC_
   - [A'Dam Lookout](https://www.adamlookout.com/opening-hours/) **16.5** *Mon-Thu 11-19, Fri-Sun 11-21* _AC_
-  - [Straat Museum](https://www.straatmuseum.com/en/plan-your-visit#openinghours) *Mon 12-17, Tue-Sun 10-17, First Friday till 2100* _AC_, **21.5**
+  - [Straat Museum](https://www.straatmuseum.com/en/plan-your-visit#openinghours) **21.5** *Mon 12-17, Tue-Sun 10-17* _AC_
   - Explore NDSM-Wharf
   - Jordaan Neighbourhood Walk by Rick Steves
   - [Foodhallen](https://www.foodhallen.nl/en/venues/amsterdam)
@@ -176,7 +179,6 @@ date = 2025-07-24
   - [Golden Streets](https://www.visithaarlem.com/en/to-do/shopping-in-haarlem/gouden-straatjes/)
   - Haarlem is famous for its "Hofjes" (hidden courtyards/almshouses). Most are behind unassuming doors. Look for a "Hofjeswandeling" map at the local VVV.
   - Warmoesstraat
-  - [Bavo Church](https://www.bavo.nl/en/visit-the-bavo/) *Mon-Sat 10-17* **4**
   - Bike ride through the [Zuid Kennemerland ](https://www.np-zuidkennemerland.nl/english/) park to Zandvoort. Check out the dunes and beach.
   - Bloemendaal aan Zee next to Zandvoort
 
