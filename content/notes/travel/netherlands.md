@@ -85,7 +85,7 @@ date = 2025-07-24
 
 - Jun 08 (Mon)
    
-  - Train to Utrecht
+  - 0900-0930 : Train to Utrecht
   - City Center: The Vredenburg - Neude - Janskerkhof area is bustling with shoppers and outdoor cafes. Lively, but busy and pretty commercial.
   - Go to the [Neude library](https://www.discover-utrecht.com/location/bibliotheek-neude-2/), get a small book, sit down and read it in one go. *09-18*
   - Neude - Janskerkhof area
@@ -131,6 +131,7 @@ date = 2025-07-24
 - Jun 11 (Thu):
 
   - Train to Amsterdam
+  - Pickup City card from Central Station.
   - Reach National Monument, Dam Square
   - 1000-1200 : [Hello Amsterdam Tour](https://whoisamsterdam.com/hello-amsterdam-walking-tour-iamsterdam-city-card/) **29€** _AC_
   - [Begijnhof](https://begijnhofkapelamsterdam.nl/english-information/)
