@@ -6,14 +6,13 @@ date = 2025-07-24
 
 ### Rotterdam - 2 Nights
 
-- Rotterdam Pass 
 
 - Jun 04 (Thu)
 
   - 0800 : Landing
   - 0900 : Out
   - 0930-1030 : Schiphol to Rotterdam
-  - Collect Rotterdam Pass from Service Point - Rotterdam Pass Shop, Halvemaanpassage 90, 3011 DL
+  - Collect **Rotterdam Pass** from Service Point - Rotterdam Pass Shop, Halvemaanpassage 90, 3011 DL
   - [Spido Harbour tour](https://www.spido.nl/en/cruises/rotterdam-harbour-tour) is included
   - Albert Heijn 
   - [Sonneveld House - Tentative](https://nieuweinstituut.nl/en/projects/huis-sonneveld/openingstijden-kaartverkoop) *Tue-Sun 10-17* **12€** _RP_
@@ -182,6 +181,7 @@ date = 2025-07-24
   - Warmoesstraat
   - Bike ride through the [Zuid Kennemerland ](https://www.np-zuidkennemerland.nl/english/) park to Zandvoort. Check out the dunes and beach.
   - Bloemendaal aan Zee next to Zandvoort
+  - 1900-2030 : [Jopenkerk](https://www.jopenkerk.nl/haarlem/en/) **29**
 
 - Jun 15 (Mon)
 
