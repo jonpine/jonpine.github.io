@@ -14,7 +14,7 @@ date = 2025-07-24
   - 0930-1030 : Schiphol to Rotterdam
   - Collect **Rotterdam Pass** from Service Point - Rotterdam Pass Shop, Halvemaanpassage 90, 3011 DL
   - [Spido Harbour tour](https://www.spido.nl/en/cruises/rotterdam-harbour-tour) is included
-  - Albert Heijn 
+  - Albert Heijn Supermarket
   - [Sonneveld House - Tentative](https://nieuweinstituut.nl/en/projects/huis-sonneveld/openingstijden-kaartverkoop) *Tue-Sun 10-17* **12€** _RP_
   - [Depot Boijmans Van Beuningen](https://www.boijmans.nl/en/depot/plan-your-depot-visit) *Tue-Sun 11-17* **20€** _RP_
   - [Kunsthal](https://www.kunsthal.nl/en/plan-your-visit/practical-information/admission-and-opening-hours/) **19€** *Tue-Sun 10-17* _RP_
@@ -45,8 +45,8 @@ date = 2025-07-24
 
 - Jun 06 (Sat)
 
+  - Train to Den Haag
   - Get a Daily Pass from HTM app **8.6€**
-  - Train to Den Haag & store Luggage
   - 0900-1000 : Binnenhof & Plein
   - 1000-1200 : [Mauritshuis museum](https://www.mauritshuis.nl/en/visit) *Mon 1300-1800, Tue-Sun 10-18* **24€** _MC_
     - Girl with a Pearl Earring
