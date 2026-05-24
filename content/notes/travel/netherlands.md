@@ -45,7 +45,7 @@ date = 2025-07-24
 
 - Jun 06 (Sat)
 
-  - Rotterdam-Den Haag : 06-12
+  - Rotterdam-Den Haag : _06-12_
   - Get a Daily Pass from HTM app **8.6€**
   - 0900-1000 : Binnenhof & Plein
   - 1000-1200 : [Mauritshuis museum](https://www.mauritshuis.nl/en/visit) *Mon 1300-1800, Tue-Sun 10-18* **24€** _MC_
@@ -84,7 +84,7 @@ date = 2025-07-24
 
 - Jun 08 (Mon)
    
-  - Train to Utrecht : 09-12
+  - Train to Utrecht : _09-12_
   - City Center: The Vredenburg - Neude - Janskerkhof area is bustling with shoppers and outdoor cafes. Lively, but busy and pretty commercial.
   - Go to the [Neude library](https://www.discover-utrecht.com/location/bibliotheek-neude-2/), get a small book, sit down and read it in one go. *09-18*
   - Neude - Janskerkhof area
@@ -162,7 +162,7 @@ date = 2025-07-24
 
 - Jun 13 (Sat)
 
-  - Amsterdam-Leiden : 06-12
+  - Amsterdam-Leiden : _06-12_
   - Rick Steves Leiden Walk
   - Rembrandt's birth house (hypermodern architecture!)
   - Bibliotheca Thysiana (the only surviving 17th-century public library in the Netherlands, sadly not easy to visit inside, but beautiful on the outside and an underrated attraction)
@@ -171,32 +171,32 @@ date = 2025-07-24
   - Take the Singelpark walk!
   - the explosion near the Van der Werff-park (and don't forget the story about him offering his arm) and the adjacent laboratory where absolute zero was reached by Kamerling Onnes,
   - Then go to Pieterskerk by walking through streets like Breestraat or Harlemmeestraat
-  - [Pieters Kerk](https://pieterskerk.com/en/your-visit/practical-information/) **6** *Tue-Sun 11-18*
+  - [Pieters Kerk](https://pieterskerk.com/en/your-visit/practical-information/) **6€** *Tue-Sun 11-18*
   - taking a look at the Gravensteen (some parts of it are the oldest buildings in Leiden!)
   - Rijnlandse Roede, the white, blue and red stone,
   - Leiden City Hall
   - Koornbrug
   - the Hooglandse Kerk
   - Climbing the Burcht
-  - [Boerhaave museum](https://www.rijksmuseumboerhaave.nl/en) **17.5** *Daily 10-17*
+  - [Boerhaave museum](https://www.rijksmuseumboerhaave.nl/en) **17.5€** *Daily 10-17*
     - (history of science, very fitting for an old university city, and has some of the first telescopes and microscopes in the world) 
   - Marekerk (an unusual, octagonal church, one of the first built for protestant services)
-  - [Molen de Valk](https://molenmuseumdevalk.nl/en/bezoekersinformatie) **6** *Tue-Sun 10-17*
-  - [Leiden Canal Tour](https://www.bootjesenbroodjes.nl/en/) **12.5** - Blauwpoortsbrug
+  - [Molen de Valk](https://molenmuseumdevalk.nl/en/bezoekersinformatie) **6€** *Tue-Sun 10-17*
+  - [Leiden Canal Tour](https://www.bootjesenbroodjes.nl/en/) **12.5€** - Blauwpoortsbrug
   - our king's student accommodation, the Soldaat van Oranje-balcony, 
-  - [Hortus Botanicus](https://hortusleiden.nl/bezoek-info#openingstijden-tarief) **14** *Daily 09-18* (oldest in the netherlands)
+  - [Hortus Botanicus](https://hortusleiden.nl/bezoek-info#openingstijden-tarief) **14€** *Daily 09-18* (oldest in the netherlands)
   - Saturday market (big market, with a lot of great food options)
   - Top Kebab on Haarlemmerstraat
   - [Leiden Route](https://maps.app.goo.gl/ua6oFypmtvboRP2r6)
   - Naturalis is the natural history museum and worth a visit for the architecture alone. 
-  - Leiden-Amsterdam : 14-20
+  - Leiden-Amsterdam : _14-20_
   - [Albert Cuyp Markt](https://albertcuyp-markt.amsterdam/?lang=en)
   - [De pijp](https://www.iamsterdam.com/en/explore/neighbourhoods/de-pijp)
   - Rick Steves Red Light District Walk/Amsterdam Walk
 
 - Jun 14 (Sun)
 
-  - Train to Haarlem : 06-12
+  - Train to Haarlem : _06-12_
   - [VondelPark](https://www.hetvondelpark.net/hvp/pmwiki.php/Main/Bezoek)
   - [TT - Frans Hals Museum](https://franshalsmuseum.nl/en/tickets-and-opening-hours) **17.5€** *Tue-Sun 11-17*  _AC_
   - [TT - Teylers Museum](https://teylersmuseum.nl/en/plan-your-visit) *Tue-Sun 10-17* **18.5€** _AC_
@@ -207,7 +207,7 @@ date = 2025-07-24
   - Bike ride through the [Zuid Kennemerland ](https://www.np-zuidkennemerland.nl/english/) park to Zandvoort. Check out the dunes and beach.
   - Bloemendaal aan Zee next to Zandvoort
   - 1900-2030 : [Jopenkerk](https://www.jopenkerk.nl/haarlem/en/) **29**
-  - Train to Amsterdam : 18-02
+  - Train to Amsterdam : _18-02_
 
 - Jun 15 (Mon)
 
