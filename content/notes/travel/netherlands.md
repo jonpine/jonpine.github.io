@@ -13,11 +13,12 @@ date = 2025-07-24
   - 0900 : Out
   - 0930-1030 : Schiphol to Rotterdam
   - Collect **Rotterdam Pass** from Service Point - Rotterdam Pass Shop, Halvemaanpassage 90, 3011 DL
-  - [Spido Harbour tour](https://www.spido.nl/en/cruises/rotterdam-harbour-tour) is included
   - Albert Heijn Supermarket
   - [Sonneveld House - Tentative](https://nieuweinstituut.nl/en/projects/huis-sonneveld/openingstijden-kaartverkoop) *Tue-Sun 10-17* **12€** _RP_
   - [Depot Boijmans Van Beuningen](https://www.boijmans.nl/en/depot/plan-your-depot-visit) *Tue-Sun 11-17* **20€** _RP_
   - [Kunsthal](https://www.kunsthal.nl/en/plan-your-visit/practical-information/admission-and-opening-hours/) **19€** *Tue-Sun 10-17* _RP_
+  - [Spido Harbour tour](https://www.spido.nl/en/cruises/rotterdam-harbour-tour) is included
+    - Daily 10.15, 11.00, 11.45, 12.30, 13.15, 14.00, 14.45, 15.30, 16.15 and 17.00
   - Voorhaven & Historisch Delfshaven - It has several interesting things to offer, in addition to a lovely view and old houses:
     - [Windmill](https://molendedistilleerketel.nl/)
     - [Pilgrim's Brewery](https://www.pelgrimbier.nl/)
