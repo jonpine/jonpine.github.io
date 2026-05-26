@@ -72,7 +72,7 @@ date = 2025-07-24
   - Lange Voorhout : Embassies along The Lange Voorhout
   - [Escher in the Palace](https://escherinhetpaleis.nl/en) *Tue-Sun 11-17* **14.5€** _RP_
   - [Panorama Mesdag](https://panorama-mesdag.nl/en/visit/) *Tue-Sun 10-17* **17.5€** _RP_
-  - [Peace Palace tour](https://www.vredespaleis.nl/visit/visitors-centre-2/?lang=en) *Wed-Sun 12-16* **Inside Tour 17.5€** **Outside tour 13.5€** *2 Weeks in Advance*
+  - 1250-1400 : [Peace Palace tour](https://www.vredespaleis.nl/visit/visitors-centre-2/?lang=en) *Wed-Sun 12-16* **Inside 17.5€** **Outside 13.5€** *2 Weeks in Advance*
   - [Haags Kunst Museum](https://www.kunstmuseum.nl/en/visit) *Tue-Sun 10-17* **20€** _RP_
   - Go climb the tower of the [Grote Kerk/Sint Jacobskerk](https://grote-kerk.nl/bezoek-de-kerk/) *Fri-Sun 12-16* **Tower 8.5€** + **Kerk 3€**
   - Scheveningen North - fun beach boulevard with Restaurants and a great beach
