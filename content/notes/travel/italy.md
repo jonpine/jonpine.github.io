@@ -7,12 +7,10 @@ date = 2024-06-27
 ### Milan (4 Nights)
 
 - [Milan Guide](https://www.reddit.com/r/Europetravel/comments/1sbdhy5/the_milan_guide_nobody_asked_for_but_everyone/)
-- [Flibco bus to Hostel](https://flibco.transport-ticket.com/result?arrivalStation=ITMILMPL&currency=EUR&departureDate=2026-07-25&departureStation=ITMILMMA&departureTime=06%3A30&marketingCarrierCode=FLIC&passengers%5B%5D%5Btype%5D=PNOS&passengers%5B%5D%5Bpax%5D=1&passengers%5B%5D%5BmaxAge%5D=99&pax=1&retailerPartnerNumber=772925&utm_country=LU&utm_stream=intercity_europe) - **10**
 - Museum Subscription - AML Store c/o Museo del Novecento, Piazza Duomo, 8 - Milano
 
 - Oct 02 (Fri) :
 
-  - Take Flibco bus to Milan Lampugnano Bus Station - **4.99** *0820/0920/1035*
   - [Leonardo da Vinci Science Museum](https://www.museoscienza.org/en/visiting/information) *0930-1830* **13** _AM_
   - Cinque Vie - five streets area b/w Duomo and San't Ambrogio.
   - [La Scala Opera House and Museum](https://www.museoscala.org/en/visit/museum-and-theater/tickets-and-opening-times.html) *Mon-Sun 0930-1730* **12** _AM_ **120mins**
@@ -84,10 +82,13 @@ date = 2024-06-27
   - Darsena del Naviglio
   - Naviglio Grande/Pavese (Milan’s Canals), (especially for the evening Aperitivo/Dinner is the place to go)
   - Naviglio canal evening Go for aperitivo (pre-dinner thing where you get a drink and included in the price is a "buffet" of various snacks)
-  - [Route](https://maps.app.goo.gl/CW8YJqnnpgBF5vGp6)
+  - [Route](https://maps.app.goo.gl/Ci8zUJQLZzFT7FLe9)
 
 - **Food**
   - Aperitivo is not just a drink. In most bars it includes a free buffet or snacks. It runs from about 18:30 to 21:00.
+  - Rosso Mattone
+  - Cotaletta (breaded pork schnitzel) and Risotto Milanese.
+  - Luini
 
 ### Venice (2 Nights)
 
@@ -330,8 +331,8 @@ date = 2024-06-27
 
   - 0830-1130 : [Herculaneum](https://ercolano.cultura.gov.it/tickets/?lang=en) *Daily 0830-1530* **16**
     - https://ercolano.beniculturali.it/oraricontatti/
-  - 1200-1500 : [Mt. Vesuvius](https://www.parconazionaledelvesuvio.it/en/visit-the-park/the-paths/the-great-cono-2-2/) **10** *Daily 09-16*
-    - [Vesuvio Express](https://www.vesuvioexpress.it/tours-from-ercolano-2026) **12**
+  - 1200-1230 : [Vesuvio Express](https://www.vesuvioexpress.it/tours-from-ercolano-2026) **12**
+  - 1250-1350 : [Mt. Vesuvius](https://www.parconazionaledelvesuvio.it/en/visit-the-park/the-paths/the-great-cono-2-2/) **10** *Daily 09-16*
   - 1500-1800 : [MANN](https://www.museoarcheologiconapoli.it/en/schedule-of-open-rooms/) *Daily 09-1930 Tue Closed* **20**
 
 - **Food & Tips**
@@ -385,7 +386,7 @@ date = 2024-06-27
   - [Doria Pamphilj Gallery](https://www.doriapamphilj.it/en/rome/your-visit/) *Mon-Thu 09-19, Fri-Sun 10-20, Wed closed*  **17**
     - A stunning private art collection housed in a palace that is often less crowded than the Vatican or Borghese.
   - Spanish steps
-  - [Borghese Gallery](https://galleriaborghese.cultura.gov.it/en/visita) *Tue-Sun 09-19* **16+2/7.5+2** _RPD_
+  - [Borghese Gallery](https://galleriaborghese.cultura.gov.it/en/visita) *Tue-Sun 09-19* **7.5+2** _RPD_
     - Guided Tour in English - 0910/1110/1510/1710 **8**
   - Villa Borghese : Just walking around Villa Borghese park at sunset
   - Passeggiata del Pincio - Terrace
