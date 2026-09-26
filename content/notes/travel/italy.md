@@ -94,6 +94,7 @@ date = 2024-06-27
 
 - Oct 06 (Tue):
 
+  - Get the Vaporetti Ticket using the PNR from the voucher
   - 0645-0917 : Train to Venice **21.40**
   - 0930-1015 : Piazzale Roma ACTV Vaporetti / Waterbus -> Zitelle
   - 1030-1230 : [St. Mark's Basilica](https://www.basilicasanmarco.it/en/) (2 hrs) **30** *Mon-Sat 0930-1645, Sun 1400-1645*
@@ -147,7 +148,7 @@ date = 2024-06-27
   - 1300-1400 : [Ragione Palace](https://www.turismopadova.it/en/places/palazzo-della-ragione/) *Tue-Sun 09-19* **8** _UPC_
   - 1400-1500 : [Basilica of St. Anthony](https://www.santantonio.org/en/content/times-and-single-ticket-various-museums-shrine) *Tue-Sun 09-13, 14-18* **10** _UPC_
   - 1500-1700 : Prato della Valle
-  - 1900-2100 : [Scrovegni Chapel Tour](https://www.cappelladegliscrovegni.it/index.php/en/) **16** *Daily 09-19* _UPC_
+  - 1845-2100 : [Scrovegni Chapel Tour](https://www.cappelladegliscrovegni.it/index.php/en/) **16** *Daily 09-19* _UPC_
     - Night Visit: Check if "Giotto under the Stars" (evening openings) is available — the lighting on the frescoes is magical at night. *1900-2120* every 20 mins.
   - [Padova Route](https://maps.app.goo.gl/mEg6VFJR5BKVcHTCA)
 
@@ -180,15 +181,29 @@ date = 2024-06-27
   - [Seven Secrets of Bologna](https://www.bolognawelcome.com/en/blog/seven-secrets-bologna)
 
 - **Food & Tips**
-  - About food, don't miss Tortellini, Lasagne, Tagliatelle al Ragù, Gramigna al ragù, Balanzoni, Mortadella
-  - Gelaterie (Ice Creams): Delizie Bolognesi
-  - [Bologna Food Tour](https://deliciousbologna.com/activities/nightfall-food-tour-bologna/)
-  - tortellini and panino al ragù @ RAGÙ (via Goito)
-  - best mortadella @ SIMONI in via delle pescherie vecchie
-  - taste different types of tigelle @ 051 in via delle pescherie vecchie
-  - best gelato: try everywhere (avoid grom and venchi). Gelato in Bologna is amazing.
+  - Breakfast:
+    - Caffè Zanarini – classic cornetto + cappuccino
+    - Pasticceria Filippo – cornetto con crema + espresso
+    - La Prosciutteria – mini prosciutto & cheese board + coffee
+  - Lunch:
+    - Trattoria del Tempo Buono – best tagliatelle al ragù according to half the thread
+  - Afternoon snack:
+    - Sfoglia Rina – takeaway tortellini in brodo (eaten on a bench in Piazza Santo Stefano)
+    - Noi – crescentine fritte + another small tagliere because why not
+    - Mo! Mortadella Lab – mortadella sandwich on focaccia.
+  - Dinner:
+    - Trattoria da Me – cotoletta alla bolognese + tagliolini al friggione, book this one!
+    - Osteria dell’Orsa – lasagna verde + tigelle with mortadella
+    - Donatello – tortellini in brodo + tagliatelle al ragù (simple but perfect)
+  - Evening:
+    - Aperitivo at Aurum in the Quadrilatero (pistachio sour + mortadella chips)
+  - Gelato: 
+    - that three-cheese flavor place near Sfoglia Rina (yes it’s weird and amazing)
+    - Delizie Bolognesi
+  - Don't miss Tortellini, Lasagne, Tagliatelle al Ragù, Gramigna al ragù, Balanzoni, Mortadella
   - [Bologna Welcome Card Easy](https://www.bolognawelcome.com/en/information/bologna-welcome-card-eng) **35**
   - [City Bike Rental](https://www.bolognawelcome.com/en/experiences/328761/City-bike-rental) **15** for 4H
+  - [Bologna Food Tour](https://deliciousbologna.com/activities/nightfall-food-tour-bologna/)
 
 ### Florence (5 Nights)
 
@@ -235,6 +250,11 @@ date = 2024-06-27
   - [Boboli Gardens](https://www.uffizi.it/en/boboli-garden) *Tue-Sun 0815-1830* **13** _FC_
   - [Basilica di San Miniato](https://sanminiatoalmonte.it/)
   - [Route](https://maps.app.goo.gl/hZTSo2VieEF7MphU6)
+
+- **Food & Tips**
+  - Gelateria Carabe - pistachio and its luscious granite, Edoardo, Gelateria de' Neri
+  - Chianti Classico
+  - Crostini, Bruschetta, Panzanella
 
 ### Siena
 
@@ -344,7 +364,7 @@ date = 2024-06-27
 - Oct 20 (Tue) :
 
   - 0725-0840 : Train to Rome **18.9**
-  - 0930 [Capitolini Museum](https://www.museicapitolini.org/en/informazioni_pratiche/orari_e_indirizzi) *Daily 0930-1930* **20.5** _RP_
+  - 0930-1230 : [Capitolini Museum](https://www.museicapitolini.org/en/informazioni_pratiche/orari_e_indirizzi) *Daily 0930-1930* **20.5** _RP_
   - Testaccio Market: Visit this local food market for a casual lunch to try authentic Roman street food.
   - [Baths of Caracalla](https://www.museiitaliani.it/musei/c763f66b-8295-4800-a92d-b96a26659396) *Tue-Sun 09-1830* **2** _RPD_
   - Aventine Hill: Visit the peaceful Orange Garden (Giardino degli Aranci) and peek through the famous Knights of Malta Keyhole.
@@ -386,7 +406,7 @@ date = 2024-06-27
   - [Doria Pamphilj Gallery](https://www.doriapamphilj.it/en/rome/your-visit/) *Mon-Thu 09-19, Fri-Sun 10-20, Wed closed*  **17**
     - A stunning private art collection housed in a palace that is often less crowded than the Vatican or Borghese.
   - Spanish steps
-  - [Borghese Gallery](https://galleriaborghese.cultura.gov.it/en/visita) *Tue-Sun 09-19* **7.5+2** _RPD_
+  - 1300-1500 : [Borghese Gallery](https://galleriaborghese.cultura.gov.it/en/visita) *Tue-Sun 09-19* **7.5+2** _RPD_
     - Guided Tour in English - 0910/1110/1510/1710 **8**
   - Villa Borghese : Just walking around Villa Borghese park at sunset
   - Passeggiata del Pincio - Terrace
@@ -394,17 +414,17 @@ date = 2024-06-27
   - Parish Basilica of Santa Maria del Popolo
   - Quartiere Coppedé
   - Quartiere San Lorenzo
-  - [Palazzo Valentini](https://www.palazzovalentini.it/en/plan-your-visit-to-the-ancient-roman-domus-of-palazzo-valentini/) _Daily 10/17_ **15/9** _RP_
+  - [Palazzo Valentini](https://www.palazzovalentini.it/en/plan-your-visit-to-the-ancient-roman-domus-of-palazzo-valentini/) _Daily 10/17_ **15/9** _RPD_
   - [Route](https://maps.app.goo.gl/Vd3Gwfo8SRmcSYM39)
 
 - Oct 24 (Sat)
 
+  - [The Colosseum](https://ticketing.colosseo.it/en/eventi/full-experience-sotterranei-e-arena/) *Daily 0830-1830* **18** _RP_
+    - The Colosseum first thing in the morning, then grabbing a quick lunch before tackling the Forum and Palatine Hill together (they share an internal entrance).
+  - [Roman Forum](https://www.rome.net/roman-forum) and Palatine Hill. *Daily 0830-1830*
   - [Basilica of San Clemente](https://www.basilicasanclemente.com/eng/opening-hours-and-info/) **10** *Mon-Sat 09-1230, 14-18 Sun 12-18*
     - A "time machine" church where you start in a 12th-century basilica, go down one level to a 4th-century church, and then down further to a 1st-century Roman house and Mithraic temple.
     - Just down the road from the Colosseum is the Basilica Saint Clement that is absolutely gorgeous. Below the pretty 11th C church are two more layers - a 4th century church and below that a Mithras temple from the 1st century. Gorgeous and fascinating.
-  - [The Colosseum](https://ticketing.colosseo.it/en/eventi/full-experience-sotterranei-e-arena/) *Daily 0830-1830* **18** _RP_
-    - **One Logistics Note:** Your ticket is usually valid for **24 hours**. I’d suggest doing the Colosseum first thing in the morning, then grabbing a quick lunch before tackling the Forum and Palatine Hill together (they share an internal entrance).
-  - [Roman Forum](https://www.rome.net/roman-forum) and Palatine Hill. *Daily 0830-1830*
   - Piazza di Santa Maria in Trastevere is beautiful
   - Fontana dell'Acqua Paola **4**
   - Janiculum Hill (Gianicolo): Head here at noon to hear the daily cannon fire and get one of the best panoramic views of Rome's skyline.
@@ -434,14 +454,13 @@ date = 2024-06-27
 
 - Oct 26 (Mon)
 
-  -  Just note that Villa Adriana is down in the plain (requires a local bus from Tivoli town), while Villa d'Este and Parco Villa Gregoriana are up in the town center. Visit Villa Adriana first, then head up to Tivoli town for Villa d'Este and lunch
-  - Take the CoTraRAL bus from Rome's Ponte Mammolo (Metro B) station straight to Villa Adriana. After exploring, catch the local bus up the hill to Tivoli town center for Villa d'Este and lunch. Return to Rome via Tivoli train station.
   - Day trip to Tivoli
+  - Take the CoTraRAL bus from Rome's Ponte Mammolo (Metro B) station straight to Villa Adriana. After exploring, catch the local bus up the hill to Tivoli town center for Villa d'Este and lunch. Return to Rome via Tivoli train station.
+  - 0900-1200 : [Villa Adriana](https://villae.cultura.gov.it/i-luoghi/villa-adriana/) *Daily 0830-1700* **15**
+    - In one day I visited Parco Villa Gregoriana, the town with the diverted river to create a stunning waterfall and the cascades; the fountain gardens of Villa d'Este and Hadrian's estate at Villa Adriana.
   - [Itineraries](https://visittivoli.it/en/itinerari-turistici/)
-  - [Villa D'Este](https://villae.cultura.gov.it/i-luoghi/villa-deste/) *Daily 0830-1730* **15** *Villae Pass*
+  - 1400-1600 : [Villa D'Este](https://villae.cultura.gov.it/i-luoghi/villa-deste/) *Daily 0830-1730* **15** *Villae Pass*
     - Hydraulic organ of the Organ Fountain is activated daily, starting at 1030, every two hours.
-  - [Villa Adriana](https://villae.cultura.gov.it/i-luoghi/villa-adriana/) *Daily 0830-1700* **15**
-    - In one day I visited Parco Villa Gregorian, the town with the diverted river to create a stunning waterfall and the cascades; the fountain gardens of Villa d'Este and Hadrian's estate at Villa Adriana.
   - https://www.reddit.com/r/rome/comments/1fnqkg8/hidden_gems_to_visit_in_rome/
 
 - **Food**
